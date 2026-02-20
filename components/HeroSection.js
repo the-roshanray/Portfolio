@@ -71,7 +71,7 @@ const HeroSection = () => {
         <div className="flex justify-center md:justify-start gap-6">
          
           <SocialLink
-            href="https://www.instagram.com/the_roshanroy/"
+            href="https://www.instagram.com/the_roshanray/"
             label="Instagram"
             icon={FaInstagram}
             color="text-pink-500"
